@@ -1,1 +1,3 @@
-New downloader code 4480701
+Pstreamz is streamfire channels
+Locals and sports added
+Couple bugs fixed. 
